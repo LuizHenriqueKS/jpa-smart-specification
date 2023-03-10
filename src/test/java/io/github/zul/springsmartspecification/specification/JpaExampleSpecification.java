@@ -3,7 +3,7 @@ package io.github.zul.springsmartspecification.specification;
 import java.time.LocalDateTime;
 import java.util.List;
 
-import javax.persistence.criteria.Predicate;
+import jakarta.persistence.criteria.Predicate;
 
 import io.github.zul.springsmartspecification.domain.JpaExample;
 import io.github.zul.springsmartspecification.jpa.query.JpaSpecificationArgs;

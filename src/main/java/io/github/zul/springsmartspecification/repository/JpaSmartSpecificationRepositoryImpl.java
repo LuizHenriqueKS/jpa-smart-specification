@@ -1,6 +1,6 @@
 package io.github.zul.springsmartspecification.repository;
 
-import javax.persistence.EntityManager;
+import jakarta.persistence.EntityManager;
 
 public class JpaSmartSpecificationRepositoryImpl<D> extends DefaultJpaSmartSpecificationRepository<D> {
 

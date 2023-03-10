@@ -1,7 +1,7 @@
 package io.github.zul.springsmartspecification.jpa.query;
 
-import javax.persistence.criteria.CriteriaBuilder;
-import javax.persistence.criteria.CriteriaQuery;
+import jakarta.persistence.criteria.CriteriaBuilder;
+import jakarta.persistence.criteria.CriteriaQuery;
 
 import io.github.zul.springsmartspecification.specification.SmartSpecification;
 

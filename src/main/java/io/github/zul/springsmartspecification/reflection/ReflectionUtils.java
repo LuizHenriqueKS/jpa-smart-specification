@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-import javax.persistence.Transient;
+import jakarta.persistence.Transient;
 
 import io.github.zul.springsmartspecification.exception.ReflectionException;
 import io.github.zul.springsmartspecification.path.PathPart;

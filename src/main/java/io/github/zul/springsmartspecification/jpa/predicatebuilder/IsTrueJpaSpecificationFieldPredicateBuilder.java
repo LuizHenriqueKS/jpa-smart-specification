@@ -2,8 +2,8 @@ package io.github.zul.springsmartspecification.jpa.predicatebuilder;
 
 import java.util.Set;
 
-import javax.persistence.criteria.Expression;
-import javax.persistence.criteria.Predicate;
+import jakarta.persistence.criteria.Expression;
+import jakarta.persistence.criteria.Predicate;
 
 import io.github.zul.springsmartspecification.jpa.query.JpaSpecificationArgs;
 import io.github.zul.springsmartspecification.jpa.query.JpaSpecificationFieldPredicateBuilder;

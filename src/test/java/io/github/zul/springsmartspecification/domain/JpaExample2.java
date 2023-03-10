@@ -1,6 +1,6 @@
 package io.github.zul.springsmartspecification.domain;
 
-import javax.persistence.Entity;
+import jakarta.persistence.Entity;
 
 import lombok.experimental.SuperBuilder;
 

@@ -2,7 +2,7 @@ package io.github.zul.springsmartspecification.jpa.query;
 
 import java.util.Set;
 
-import javax.persistence.criteria.Predicate;
+import jakarta.persistence.criteria.Predicate;
 
 public interface JpaSpecificationFieldPredicateBuilder {
 

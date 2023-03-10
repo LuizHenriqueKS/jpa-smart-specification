@@ -3,9 +3,9 @@ package io.github.zul.springsmartspecification.jpa.query;
 import java.util.Collections;
 import java.util.List;
 
-import javax.persistence.criteria.CriteriaBuilder;
-import javax.persistence.criteria.CriteriaQuery;
-import javax.persistence.criteria.Path;
+import jakarta.persistence.criteria.CriteriaBuilder;
+import jakarta.persistence.criteria.CriteriaQuery;
+import jakarta.persistence.criteria.Path;
 
 import io.github.zul.springsmartspecification.specification.SmartSpecification;
 import lombok.AllArgsConstructor;

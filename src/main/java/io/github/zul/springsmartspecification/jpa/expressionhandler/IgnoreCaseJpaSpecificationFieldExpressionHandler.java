@@ -4,10 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
-import javax.persistence.criteria.Expression;
-
 import io.github.zul.springsmartspecification.jpa.query.JpaSpecificationArgs;
 import io.github.zul.springsmartspecification.jpa.query.JpaSpecificationFieldExpressionHandler;
+import jakarta.persistence.criteria.Expression;
 
 public class IgnoreCaseJpaSpecificationFieldExpressionHandler implements JpaSpecificationFieldExpressionHandler {
 

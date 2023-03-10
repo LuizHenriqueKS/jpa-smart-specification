@@ -26,7 +26,7 @@ Entity:
 public class JpaExample {
 
     @Id
-    @GeneratedValue(strategy = javax.persistence.GenerationType.IDENTITY)
+    @GeneratedValue(strategy = jakarta.persistence.GenerationType.IDENTITY)
     private Long id;
     private String name;
     private LocalDateTime timestamp;

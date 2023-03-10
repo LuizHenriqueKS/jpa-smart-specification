@@ -4,7 +4,7 @@ import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.persistence.criteria.Predicate;
+import jakarta.persistence.criteria.Predicate;
 
 import io.github.zul.springsmartspecification.exception.ReflectionException;
 import io.github.zul.springsmartspecification.path.PathPartExtractor;

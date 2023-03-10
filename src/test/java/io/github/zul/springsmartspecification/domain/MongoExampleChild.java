@@ -1,6 +1,6 @@
 package io.github.zul.springsmartspecification.domain;
 
-import javax.persistence.Id;
+import jakarta.persistence.Id;
 
 import org.springframework.data.mongodb.core.mapping.Document;
 
